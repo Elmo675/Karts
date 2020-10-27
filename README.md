@@ -1,1 +1,2 @@
 # Karts
+This is an  idea of an adroid game based on Cards whithout restrictions. Players can choose what game they want to play or what they want to do. Mostly im gona focus on conecting from 2 to 9 devices and creating a nice well looking aplication where host can choose how much cards are in game and what game people gona play. Idea was created when me and mine friends didn't have  cards and we couldn't play Macau. 
